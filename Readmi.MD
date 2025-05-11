@@ -23,4 +23,4 @@ Berikut adalah daftar URL yang memiliki kerentanan (vulnerable) yang telah ditem
 - Selalu periksa keamanan website secara berkala.  
 
 **Disclaimer**:  
-Repository ini untuk tujuan edukasi keamanan TI. Penulis tidak bertanggung jawab atas penyalahgunaan informasi.  
+Repository ini untuk tujuan edukasi keamanan TI. Penulis tidak bertanggung jawab atas penyalahgunaan informasi!.  
